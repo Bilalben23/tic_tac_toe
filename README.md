@@ -34,7 +34,7 @@ This is a simple Tic Tac Toe game built with **React** and styled using **Tailwi
 4. A toast notification will announce the winner, and the winning squares will remain highlighted.
    
 ## Preview
-- you can start playing now!: (tic tac toe)[https://bilalben23.github.io/tic_tac_toe/]
+- you can start playing now!: [tic tac toe](https://bilalben23.github.io/tic_tac_toe/)
 
 <img width="371" alt="Screenshot 2024-09-26 220559" src="https://github.com/user-attachments/assets/c45851ab-67a3-4265-8b12-1b03b42a94c1">
 
